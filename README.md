@@ -16,4 +16,6 @@ screen
 Ctrl + a + d
 ```
 ### To see log<br>
+```
 tail -f log.compile
+```
